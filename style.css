@@ -10,6 +10,11 @@ body {
     color: #f9faf8;
 }
 
+.header{
+    display: flex;
+    gap: 10rem;
+}
+
 .hero {
     display: flex;
     align-items: center;
